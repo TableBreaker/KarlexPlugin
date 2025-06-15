@@ -1,0 +1,8 @@
+## Title: Karlex Plugins
+## Interface: 30404
+
+Scripts\MouseOver.lua
+Scripts\CombatToolTip.lua
+Scripts\ItemLvl.lua
+Scripts\NamePlate.lua
+Scripts\Energy.lua
