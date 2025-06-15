@@ -36,7 +36,7 @@ local function AddHealthTextToPlate(unitFrame)
     -- 连击点文本
     local comboText = healthBar:CreateFontString(nil, "OVERLAY")
     comboText:SetFont(font, 12, "OUTLINE")
-    comboText:SetPoint("TOP", healthBar, "BOTTOM", 0, -2)
+    comboText:SetPoint("RIGHT", healthBar, "LEFT", -3, 0)
     unitFrame.comboText = comboText
 end
 
